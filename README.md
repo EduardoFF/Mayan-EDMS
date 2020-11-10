@@ -12,6 +12,7 @@
 [pypi-url]: https://pypi.org/project/mayan-edms/
 
 
+
 [builds]: https://gitlab.com/mayan-edms/mayan-edms/badges/master/build.svg
 [builds-url]: https://gitlab.com/mayan-edms/mayan-edms/pipelines
 
