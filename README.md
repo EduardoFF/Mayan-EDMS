@@ -12,6 +12,8 @@
 [pypi-url]: https://pypi.org/project/mayan-edms/
 
 
+<a href="https://codeclimate.com/github/EduardoFF/Mayan-EDMS/maintainability"><img src="https://api.codeclimate.com/v1/badges/0ec4ffedf68aff6d8729/maintainability" /></a>
+
 
 [builds]: https://gitlab.com/mayan-edms/mayan-edms/badges/master/build.svg
 [builds-url]: https://gitlab.com/mayan-edms/mayan-edms/pipelines
