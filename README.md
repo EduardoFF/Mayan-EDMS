@@ -27,6 +27,8 @@
 [support]: https://img.shields.io/badge/Get_support-brightgreen
 [support-url]: https://www.mayan-edms.com/support/
 
+<a href="https://codeclimate.com/github/EduardoFF/Mayan-EDMS/maintainability"><img src="https://api.codeclimate.com/v1/badges/0ec4ffedf68aff6d8729/maintainability" /></a>
+
 <div align="center">
   <a href="http://www.mayan-edms.com">
     <img width="200" heigth="200" src="https://gitlab.com/mayan-edms/mayan-edms/raw/master/docs/_static/mayan_logo.png">
