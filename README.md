@@ -8,7 +8,6 @@
 [![Store](https://img.shields.io/badge/Online_store-black)](https://teespring.com/stores/mayan-edms)
 [![Donation](https://img.shields.io/badge/donation-PayPal-brightgreen)](https://paypal.me/MayanEDMS)
 
-
 [pypi]: https://img.shields.io/pypi/v/mayan-edms.svg
 [pypi-url]: https://pypi.org/project/mayan-edms/
 
